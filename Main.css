@@ -1,0 +1,17 @@
+body {
+    background-color: #fff8dc;
+}
+
+.wrapper {
+    margin: 5 px
+    border: 10px solid salmon
+}
+
+h1{
+    font-family: 'Times New Roman', Times, serif
+}
+
+.example 2 img{
+    width: 400px;
+    height: 400px;
+}
